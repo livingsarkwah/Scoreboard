@@ -49,7 +49,7 @@ h3 {
 }
 
 .score {
-    font-family: 'digital';
+    font-family: 'digital', sans-serif;
     font-size: 96px;
     background: rgb(24, 23, 23);
     color: aliceblue;
