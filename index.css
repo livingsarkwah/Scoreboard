@@ -41,7 +41,9 @@ button {
 
 h2 {
     font-size: 36px;
-    text-decoration: underline;
+    background: whitesmoke;
+    width: 100%;
+    padding: 12px 24px;
 }
 
 h3 {
