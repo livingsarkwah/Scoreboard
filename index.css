@@ -28,7 +28,7 @@ button {
     flex-direction: column;
     align-items: center;
     background: greenyellow;
-    padding: 24px 52px;
+    padding: 24px 42px;
 }
 .game {
     display: flex;
@@ -44,7 +44,7 @@ h2 {
     background: whitesmoke;
     text-align: center;
     width: 100%;
-    padding: 12px 24px;
+    padding: 12px;
     margin-bottom: 12px;
 }
 
